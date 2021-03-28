@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dhirajjayswal0
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me dhirajjayswal0123@gmail.com
