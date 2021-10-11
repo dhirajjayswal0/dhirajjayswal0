@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhirajjayswal0
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Cloud Computing and Data science
+- 🌱 I have prior experience in Python, HTML, CSS and Java Script
+- 💞️ I’m looking to collaborate on projects with above programming language
 - 📫 How to reach me dhirajjayswal0123@gmail.com
