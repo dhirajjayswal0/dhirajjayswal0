@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @dhirajjayswal0
-- 👀 I’m interested in Cloud Computing and Data science
-- 🌱 I have prior experience in Python, HTML, CSS and Java Script
-- 💞️ I’m looking to collaborate on projects with above programming language
-- 📫 How to reach me dhirajjayswal0123@gmail.com
+- 🌱 I love working on = [Python, Flutter, Dart, HTML, CSS and Java Script]
+- 📫 You can reach me at dhirajjayswal0123@gmail.com
