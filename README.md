@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dhirajjayswal0
-- 🌱 I love working on = [Python, Flutter, Dart, HTML, CSS and Java Script]
+- 🌱 LoveWorkingOn = [Python, Flutter, Dart, HTML, CSS and Java Script]
 - 📫 You can reach me at dhirajjayswal0123@gmail.com
