@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @dhirajjayswal0
-- 🌱 LoveWorkingOn = [Python, Flutter, Dart, HTML, CSS and Java Script]
+- 🌱 LanguageUsed = Python, C#, Dart, HTML, CSS & Java Script
+- 🌱 WorkedOn = Docker, Kubernates, Cloud, microservices, web development, app development & Linux administration
 - 📫 You can reach me at dhirajjayswal0123@gmail.com
